@@ -1,6 +1,7 @@
 rose手册计划
 ============
 * rose项目源代码地址：http://code.google.com/p/paoding-rose/
+* rose项目wiki地址：http://www.54chen.com/rose.html
 
 * 目标：光大rose在国内java行业的使用，降低java入门。
 * 人人网、糯米网释出的、开源的高效Java web开发框架。在小米米聊服务端再次被验证和使用。一个从零开始的创业公司，在大家技术背景不一的情况下，rose很简单快速地传达到了大家中间。本手册致力于让php开发人员也能快速使用上java开发高性能服务。
